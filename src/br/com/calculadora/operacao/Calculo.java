@@ -1,5 +1,9 @@
 package br.com.calculadora.operacao;
 
+/**
+ * Clase para fazer cálculos
+ * @author Felipe dos Reis Bino Machado
+ */
 public class Calculo {
 
 	public int numero1;
